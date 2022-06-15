@@ -1,0 +1,41 @@
+Daftar Nama Mahasiswa yang ikut Ujian Ulang MK Basis Data dosen Bu Nana :
+Kelas A :
+ 1. NIM  : 1900018018
+    Nama : Andika Pangestu
+ 2. NIM  : 1900018029
+    Nama : Sadajiwa Kuncoro
+ 3. NIM  : 2000018011
+    Nama : Sasa Nur Safitri
+ 4. NIM  : 2000018023
+    Nama : Karin Ayu
+ 5. NIM  : 2000018030
+    Nama : Dika Saputra
+Kelas B :
+ 1. NIM  : 1900018001
+    Nama : Sandika Aji
+ 2. NIM  : 2000018045
+    Nama : Putri Larasati
+ 3. NIM  : 2000018046
+    Nama : Najib Nur Kholisa
+ 4. NIM  : 2000018048
+    Nama : Ayu Dewi Kencana
+ 5. NIM  : 2000018050
+    Nama : Kirana Sekar
+Kelas C :
+ 1. NIM  : 1900018033
+    Nama : Sadewa Jatmiko
+ 2. NIM  : 1900018101
+    Nama : Cipta Dewandaru
+ 3. NIM  : 1900018150
+    Nama : Endra Iswaman
+ 4. NIM  : 2000018056
+    Nama : Laksana Lingga
+ 5. NIM  : 2000018060
+    Nama : Mada Nismara
+
+Output : 
+Array 1 dimensi
+data[45] = {"A","1900018018","Andri Pengestu"," ","1900018029", "Sadajiwa Kuncoro"," ", "2000018011", "Sasa Nur Safitri", " ","2000018023", "Karin Ayu"," ", "2000018030", "Dika Saputra","B","1900018001","Sandika aji"," ","2000018045", "Putri Larasati"," ", "2000018046", "Najib Nur Kholisa", " ","2000018048", "Ayu Dewi Kencana"," ", "2000018050", "Kirana Sekar","C","1900018033","Sadewa Jatmiko"," ","1900018101", "Cipta Dewandaru"," ", "1900018150", "Endra Iswaman", " ","2000018056", "Laksana Lingga"," ", "2000018060", "Mada Nismara"}
+
+Array 2 dimensi 
+sama seperti tabel
